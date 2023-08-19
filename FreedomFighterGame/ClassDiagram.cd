@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FreedomFighterGame.Framework.Collisions">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Collisions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.Framework.Enemy">
+    <Position X="7.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAAUACAACAAAAAEAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Framework\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.Framework.Game">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.Framework.GameCell">
+    <Position X="2.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAQAAAAgAAACIAAADgAABgAAAAYAA=</HashCode>
+      <FileName>Framework\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.Framework.GameGrid">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABgAIACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.Framework.GameObject">
+    <Position X="9" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAACAAgAAQAAAAEAAEAAAABA=</HashCode>
+      <FileName>Framework\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.Bullet">
+    <Position X="13.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.GameAtlas">
+    <Position X="10.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACgAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameAtlas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.HEnemy">
+    <Position X="12.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\HEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.REnemy">
+    <Position X="7.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>GameGL\REnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.SEnemy">
+    <Position X="5.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\SEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameGL.VEnemy">
+    <Position X="9.75" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\VEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreedomFighterGame.GameDL.EnemyDL" Collapsed="true">
+    <Position X="15" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>GameDL\EnemyDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FreedomFighterGame.Framework.GameDirection">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Framework\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FreedomFighterGame.Framework.GameObjectType">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAQAAAABAAAAAAAAAAAABQAAAAAA=</HashCode>
+      <FileName>Framework\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
